@@ -16,7 +16,7 @@ This repository contains a collection of practical projects built using the ESP3
 | # | Project | Status |
 |---|---------|--------|
 | 01 | Ultrasonic Parking Sensor | ✅ Completed |
-| 02 | Coming Soon | ⏳ |
+| 02 | Servo Radar System | ✅ Completed |
 | 03 | Coming Soon | ⏳ |
 
 ---
